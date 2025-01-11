@@ -9,3 +9,9 @@
 - address CrossChainPriceNFT (CCIP): 0x3879d8Eeeba10bf7397ef9EFDa1F2F8dEA2bd627
 - address CrossDestinationMinter for messages (CCIP): 0x00f4EE25D065F11F593119244cF28CF793Eff37c
 - address CrossSourceMinter for messages (CCIP):0x8D50631bEd8f4a1599a9afF5892d1DeE54ca688a
+- address CCIPLocalSimulator for messages (CCIP):0xc88EBE60481833CD1B2735791247781dC59A67fa
+
+Local Dev - Environment Remix VM:
+- address CCIPLocalSimulator for messages (CCIP): 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+- address Sender (CCIP):  0x358AA13c52544ECCEF6B0ADD0f801012ADAD5eE3
+- address Receiver (CCIP): 0x9D7f74d0C41E726EC95884E0e97Fa6129e3b5E99
