@@ -7,3 +7,4 @@
 - address Log Trigger (Chainlink Automation): 0x8C02B40aE7c2C042CB2b4C3E9F0F8AEB226CA8Eb
 - address TransferUSDCBasic (CCIP): : 0x09033ECCF7929FEf24984e1D78c0cE506CFdDB6c
 - address CrossChainPriceNFT (CCIP): 0x3879d8Eeeba10bf7397ef9EFDa1F2F8dEA2bd627
+- address CrossDestinationMinter for messages (CCIP): 0x00f4EE25D065F11F593119244cF28CF793Eff37c
