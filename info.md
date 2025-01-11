@@ -8,3 +8,4 @@
 - address TransferUSDCBasic (CCIP): : 0x09033ECCF7929FEf24984e1D78c0cE506CFdDB6c
 - address CrossChainPriceNFT (CCIP): 0x3879d8Eeeba10bf7397ef9EFDa1F2F8dEA2bd627
 - address CrossDestinationMinter for messages (CCIP): 0x00f4EE25D065F11F593119244cF28CF793Eff37c
+- address CrossSourceMinter for messages (CCIP):0x8D50631bEd8f4a1599a9afF5892d1DeE54ca688a
